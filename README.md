@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning **DVC**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoramonbs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoramonbs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
